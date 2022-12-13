@@ -1,0 +1,11 @@
+# Ignora la carpeta node_modules
+node_modules
+
+src
+
+*.json
+
+
+*.js
+
+.DS_Store
